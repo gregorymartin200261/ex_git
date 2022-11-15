@@ -1,0 +1,5 @@
+E:\ex_git\Cercle\Cercle\obj\Debug\netcoreapp3.1\Cercle.csproj.AssemblyReference.cache
+E:\ex_git\Cercle\Cercle\obj\Debug\netcoreapp3.1\Cercle.GeneratedMSBuildEditorConfig.editorconfig
+E:\ex_git\Cercle\Cercle\obj\Debug\netcoreapp3.1\Cercle.AssemblyInfoInputs.cache
+E:\ex_git\Cercle\Cercle\obj\Debug\netcoreapp3.1\Cercle.AssemblyInfo.cs
+E:\ex_git\Cercle\Cercle\obj\Debug\netcoreapp3.1\Cercle.csproj.CoreCompileInputs.cache
