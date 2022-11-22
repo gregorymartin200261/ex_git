@@ -1,0 +1,14 @@
+E:\ex_git\Cercle\Cercle\obj\Debug\netcoreapp3.1\Cercle.csproj.AssemblyReference.cache
+E:\ex_git\Cercle\Cercle\obj\Debug\netcoreapp3.1\Cercle.GeneratedMSBuildEditorConfig.editorconfig
+E:\ex_git\Cercle\Cercle\obj\Debug\netcoreapp3.1\Cercle.AssemblyInfoInputs.cache
+E:\ex_git\Cercle\Cercle\obj\Debug\netcoreapp3.1\Cercle.AssemblyInfo.cs
+E:\ex_git\Cercle\Cercle\obj\Debug\netcoreapp3.1\Cercle.csproj.CoreCompileInputs.cache
+E:\ex_git\Cercle\Cercle\bin\Debug\netcoreapp3.1\Cercle.exe
+E:\ex_git\Cercle\Cercle\bin\Debug\netcoreapp3.1\Cercle.deps.json
+E:\ex_git\Cercle\Cercle\bin\Debug\netcoreapp3.1\Cercle.runtimeconfig.json
+E:\ex_git\Cercle\Cercle\bin\Debug\netcoreapp3.1\Cercle.runtimeconfig.dev.json
+E:\ex_git\Cercle\Cercle\bin\Debug\netcoreapp3.1\Cercle.dll
+E:\ex_git\Cercle\Cercle\bin\Debug\netcoreapp3.1\Cercle.pdb
+E:\ex_git\Cercle\Cercle\obj\Debug\netcoreapp3.1\Cercle.dll
+E:\ex_git\Cercle\Cercle\obj\Debug\netcoreapp3.1\Cercle.pdb
+E:\ex_git\Cercle\Cercle\obj\Debug\netcoreapp3.1\Cercle.genruntimeconfig.cache
