@@ -34,5 +34,11 @@ namespace Cercle
             double value = Math.PI * this._rayon * this._rayon;
             return value;
         }
+
+        public string Affiche()
+        {
+            string phrase = "le cercle de rayon " + _rayon+" a ";
+            return phrase;
+        }
     }
 }
