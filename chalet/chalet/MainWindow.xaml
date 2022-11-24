@@ -1,0 +1,63 @@
+﻿<Window x:Class="chalet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:chalet"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" FontSize="21px"   Background="#f2ab27">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="131*"/>
+            <RowDefinition Height="86*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.ColumnSpan="2" Margin="0,0,266,0">
+            <GroupBox Header="TYPE DE LOGEMENT" Margin="10 30 10 30" BorderBrush="white" Height="160">
+                <StackPanel  HorizontalAlignment="Center" Height="50">
+                    <RadioButton x:Name="radbtnChalet" Click="RadioButton_Click">CHALET</RadioButton>
+                    <RadioButton x:Name="radbtnTente" Click="RadioButton_Click_1">TENTE</RadioButton>
+                </StackPanel>
+            </GroupBox>
+            <CheckBox Margin="10" x:Name="ChckBxReserv" Click="CheckBox_Click">RESERVATION</CheckBox>
+        </StackPanel>
+
+        <GroupBox HorizontalAlignment="left" Header="RESULTATS" Margin="10,30,30,30" BorderBrush="white" Grid.Row="1" Grid.ColumnSpan="2" Width="470">
+            <StackPanel>
+                <TextBlock Margin="0 14 0 10" x:Name="txtblcPrix">Prix a payer :</TextBlock>
+                <TextBlock x:Name="txtblcSemaine">Nombre de semaines :</TextBlock>
+            </StackPanel>
+        </GroupBox>
+
+        <StackPanel Grid.Row="1" VerticalAlignment="Center" Grid.Column="2">
+            <Button Margin="35 30 35 30" x:Name="btnCalcul" Click="btnCalcul_Click">CALCULER</Button>
+            <Button Margin="35 0 35 25" x:Name="btnInit" Visibility="Hidden">INIT</Button>
+        </StackPanel>
+
+        <GroupBox Header="Paramètrage du jeu et des joueurs" Margin="35,35,35,0" Grid.Column="1" Grid.ColumnSpan="2">
+            <StackPanel>
+                <DockPanel >
+                    <Label Margin="5">Nbre de Personnes (entre1 a 6):</Label>
+                    <TextBox Margin="5" Width="40" Height="30" x:Name="txtbxNbrPersonne" Background="White"></TextBox>
+                </DockPanel>
+                <DockPanel >
+                    <Label Margin="5">Date d'arrivée :</Label>
+                    <TextBox Margin="5" Width="200" Height="30" x:Name="txtbxArrive" Background="White"/>
+                </DockPanel>
+                <DockPanel >
+                    <Label Margin="5">Date de sortie :</Label>
+                    <TextBox Margin="5" Width="200" Height="30" x:Name="txtbxSortie" Background="White"></TextBox>
+                </DockPanel>
+                <DockPanel>
+                    <Button x:Name="btnAdd" Margin="10 0 50 0" Click="btnAdd_Click">DUREE SORTIE</Button>
+                    <TextBlock x:Name="DureeSem">Durée en semaines</TextBlock>
+                </DockPanel>
+
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>
