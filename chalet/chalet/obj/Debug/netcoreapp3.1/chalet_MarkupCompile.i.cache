@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\ex_git\ex\chalet\chalet\obj\Debug\netcoreapp3.1\
+E:\ex_git\ex\chalet\chalet\obj\Debug\netcoreapp3.1\
 chalet
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-F:\ex_git\ex\chalet\chalet\App.xaml
+E:\ex_git\ex\chalet\chalet\App.xaml
 11407045341
 
 5-2092653789
 192-1533232326
 MainWindow.xaml;
 
-True
+False
 

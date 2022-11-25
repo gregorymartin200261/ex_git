@@ -28,6 +28,10 @@ namespace chalet
 
         private void VerifNbrPersonne(object sender, TextCompositionEventArgs e)
         {
+            if (txtbxNbrPersonne.Text.Length > 0)
+            {
+                e.Handled = true;
+            }
             if (e.Text != "," && !EstEntier(e.Text))
             {
                 e.Handled = true;
@@ -36,10 +40,7 @@ namespace chalet
             {
                 e.Handled = true;
             }
-            else if (txtbxNbrPersonne.Text.Length > 1)
-            {
-                e.Handled = true;
-            }
+            
         }
         private bool EstEntier(string UserText)
         {
@@ -77,8 +78,7 @@ namespace chalet
 
         private void btnAdd_Click(object sender, RoutedEventArgs e)
         {
-            btnInit.Visibility = Visibility.Visible;
-            btnInit.Background = Brushes.Red;
+
 
             DateTime DateArrive;
             DateTime DateSortie;
@@ -88,8 +88,32 @@ namespace chalet
             if(DateTime.TryParse(Sortie.Text, out DateSortie)&& DateTime.TryParse(Arrive.Text, out DateArrive))
             {
                 TimeSpan Tps = DateSortie - DateArrive;
-                // afficher Tps / 604800
-                DureeSem.Text = Tps.ToString();
+                int monthArrive = DateArrive.Month;
+                int monthSortie = DateSortie.Month;
+                int YearArrive = DateArrive.Year;
+                int YearSortie = DateSortie.Year;
+
+                if(((monthArrive==7 || monthArrive == 8) && (monthSortie == 7 || monthSortie == 8)) || ((monthArrive == 12 || monthArrive == 1) && (monthSortie == 12 || monthSortie == 1))|| (monthArrive == 4 && monthSortie == 4))
+                {
+                    if (YearArrive == YearSortie)
+                    {
+                        int tpsJ = (int)(Tps.TotalDays / 7);
+                        if (Tps.TotalDays % 7 != 0)
+                        {
+                            tpsJ++;
+                        }
+                        btnInit.Visibility = Visibility.Visible;
+                        DureeSem.Text = tpsJ.ToString();
+                    }
+                    else
+                    {
+                        DureeSem.Text = "Date(s) invalide(s)";
+                    }
+                }
+                else
+                {
+                    DureeSem.Text = "Date(s) invalide(s)";
+                }
             }
         }
 
