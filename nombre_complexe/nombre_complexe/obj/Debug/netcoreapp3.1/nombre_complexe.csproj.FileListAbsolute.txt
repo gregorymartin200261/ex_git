@@ -1,0 +1,14 @@
+F:\ex_git\nombre_complexe\nombre_complexe\obj\Debug\netcoreapp3.1\nombre_complexe.csproj.AssemblyReference.cache
+F:\ex_git\nombre_complexe\nombre_complexe\obj\Debug\netcoreapp3.1\nombre_complexe.GeneratedMSBuildEditorConfig.editorconfig
+F:\ex_git\nombre_complexe\nombre_complexe\obj\Debug\netcoreapp3.1\nombre_complexe.AssemblyInfoInputs.cache
+F:\ex_git\nombre_complexe\nombre_complexe\obj\Debug\netcoreapp3.1\nombre_complexe.AssemblyInfo.cs
+F:\ex_git\nombre_complexe\nombre_complexe\obj\Debug\netcoreapp3.1\nombre_complexe.csproj.CoreCompileInputs.cache
+F:\ex_git\nombre_complexe\nombre_complexe\bin\Debug\netcoreapp3.1\nombre_complexe.exe
+F:\ex_git\nombre_complexe\nombre_complexe\bin\Debug\netcoreapp3.1\nombre_complexe.deps.json
+F:\ex_git\nombre_complexe\nombre_complexe\bin\Debug\netcoreapp3.1\nombre_complexe.runtimeconfig.json
+F:\ex_git\nombre_complexe\nombre_complexe\bin\Debug\netcoreapp3.1\nombre_complexe.runtimeconfig.dev.json
+F:\ex_git\nombre_complexe\nombre_complexe\bin\Debug\netcoreapp3.1\nombre_complexe.dll
+F:\ex_git\nombre_complexe\nombre_complexe\bin\Debug\netcoreapp3.1\nombre_complexe.pdb
+F:\ex_git\nombre_complexe\nombre_complexe\obj\Debug\netcoreapp3.1\nombre_complexe.dll
+F:\ex_git\nombre_complexe\nombre_complexe\obj\Debug\netcoreapp3.1\nombre_complexe.pdb
+F:\ex_git\nombre_complexe\nombre_complexe\obj\Debug\netcoreapp3.1\nombre_complexe.genruntimeconfig.cache
