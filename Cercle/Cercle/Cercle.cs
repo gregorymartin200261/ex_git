@@ -24,7 +24,7 @@ namespace Cercle
             }
         }
 
-        public double CalculePerimetre()
+        public double CalculePerimetre()        
         {
             double value = 2* Math.PI * this._rayon;
             return value;
