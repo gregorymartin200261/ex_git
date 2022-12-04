@@ -1,0 +1,14 @@
+F:\ex_git\CalculMental\CalculMental\obj\Debug\netcoreapp3.1\CalculMental.csproj.AssemblyReference.cache
+F:\ex_git\CalculMental\CalculMental\obj\Debug\netcoreapp3.1\CalculMental.GeneratedMSBuildEditorConfig.editorconfig
+F:\ex_git\CalculMental\CalculMental\obj\Debug\netcoreapp3.1\CalculMental.AssemblyInfoInputs.cache
+F:\ex_git\CalculMental\CalculMental\obj\Debug\netcoreapp3.1\CalculMental.AssemblyInfo.cs
+F:\ex_git\CalculMental\CalculMental\obj\Debug\netcoreapp3.1\CalculMental.csproj.CoreCompileInputs.cache
+F:\ex_git\CalculMental\CalculMental\bin\Debug\netcoreapp3.1\CalculMental.exe
+F:\ex_git\CalculMental\CalculMental\bin\Debug\netcoreapp3.1\CalculMental.deps.json
+F:\ex_git\CalculMental\CalculMental\bin\Debug\netcoreapp3.1\CalculMental.runtimeconfig.json
+F:\ex_git\CalculMental\CalculMental\bin\Debug\netcoreapp3.1\CalculMental.runtimeconfig.dev.json
+F:\ex_git\CalculMental\CalculMental\bin\Debug\netcoreapp3.1\CalculMental.dll
+F:\ex_git\CalculMental\CalculMental\bin\Debug\netcoreapp3.1\CalculMental.pdb
+F:\ex_git\CalculMental\CalculMental\obj\Debug\netcoreapp3.1\CalculMental.dll
+F:\ex_git\CalculMental\CalculMental\obj\Debug\netcoreapp3.1\CalculMental.pdb
+F:\ex_git\CalculMental\CalculMental\obj\Debug\netcoreapp3.1\CalculMental.genruntimeconfig.cache
