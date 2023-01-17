@@ -1,0 +1,20 @@
+E:\ex_git\calculette binaire\calculette binaire\bin\Debug\netcoreapp3.1\calculette binaire.exe
+E:\ex_git\calculette binaire\calculette binaire\bin\Debug\netcoreapp3.1\calculette binaire.deps.json
+E:\ex_git\calculette binaire\calculette binaire\bin\Debug\netcoreapp3.1\calculette binaire.runtimeconfig.json
+E:\ex_git\calculette binaire\calculette binaire\bin\Debug\netcoreapp3.1\calculette binaire.runtimeconfig.dev.json
+E:\ex_git\calculette binaire\calculette binaire\bin\Debug\netcoreapp3.1\calculette binaire.dll
+E:\ex_git\calculette binaire\calculette binaire\bin\Debug\netcoreapp3.1\calculette binaire.pdb
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\calculette binaire.csproj.AssemblyReference.cache
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\App.g.cs
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\calculette binaire_MarkupCompile.cache
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\calculette binaire_MarkupCompile.lref
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\calculette binaire.g.resources
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\calculette binaire.GeneratedMSBuildEditorConfig.editorconfig
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\calculette binaire.AssemblyInfoInputs.cache
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\calculette binaire.AssemblyInfo.cs
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\calculette binaire.csproj.CoreCompileInputs.cache
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\calculette binaire.dll
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\calculette binaire.pdb
+E:\ex_git\calculette binaire\calculette binaire\obj\Debug\netcoreapp3.1\calculette binaire.genruntimeconfig.cache
