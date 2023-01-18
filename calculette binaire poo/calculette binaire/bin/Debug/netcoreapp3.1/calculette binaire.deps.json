@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "calculette binaire/1.0.0": {
+        "runtime": {
+          "calculette binaire.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculette binaire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
