@@ -1,0 +1,29 @@
+﻿<Window x:Class="SimplyExamWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimplyExamWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="800" Background="#FF5DB188">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Text="SERPENTS ET ECHELLES" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Grid x:Name="grdMain" Grid.Row="1" Grid.Column="0">
+        </Grid>
+        <StackPanel x:Name="stkVoletDroit" Grid.Row="1" Grid.Column="1" Background="#FFC38F3D" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:Name="txtQuiJoue" Text="Joueur 1" Width="150" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,30,0,0"/>
+            <TextBlock x:Name="txtDe" Text="Dé" Width="150" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,30,0,0"/>
+            <Button x:Name="btnAvancer" Content="JOUER" Width="150" Margin="0,50,0,150" Click="btnAvancer_Click" />
+        </StackPanel>
+    </Grid>
+</Window>
