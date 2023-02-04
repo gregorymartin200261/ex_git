@@ -1,0 +1,5 @@
+/Volumes/NO NAME/ex_git/HERITAGE/HERITAGE/obj/Release/netcoreapp3.1/HERITAGE.csproj.AssemblyReference.cache
+/Volumes/NO NAME/ex_git/HERITAGE/HERITAGE/obj/Release/netcoreapp3.1/HERITAGE.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/NO NAME/ex_git/HERITAGE/HERITAGE/obj/Release/netcoreapp3.1/HERITAGE.AssemblyInfoInputs.cache
+/Volumes/NO NAME/ex_git/HERITAGE/HERITAGE/obj/Release/netcoreapp3.1/HERITAGE.AssemblyInfo.cs
+/Volumes/NO NAME/ex_git/HERITAGE/HERITAGE/obj/Release/netcoreapp3.1/HERITAGE.csproj.CoreCompileInputs.cache
