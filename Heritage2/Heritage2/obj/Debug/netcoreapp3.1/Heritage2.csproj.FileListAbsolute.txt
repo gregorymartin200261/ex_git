@@ -1,0 +1,14 @@
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/obj/Debug/netcoreapp3.1/Heritage2.csproj.AssemblyReference.cache
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/obj/Debug/netcoreapp3.1/Heritage2.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/obj/Debug/netcoreapp3.1/Heritage2.AssemblyInfoInputs.cache
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/obj/Debug/netcoreapp3.1/Heritage2.AssemblyInfo.cs
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/obj/Debug/netcoreapp3.1/Heritage2.csproj.CoreCompileInputs.cache
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/bin/Debug/netcoreapp3.1/Heritage2
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/bin/Debug/netcoreapp3.1/Heritage2.deps.json
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/bin/Debug/netcoreapp3.1/Heritage2.runtimeconfig.json
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/bin/Debug/netcoreapp3.1/Heritage2.runtimeconfig.dev.json
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/bin/Debug/netcoreapp3.1/Heritage2.dll
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/bin/Debug/netcoreapp3.1/Heritage2.pdb
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/obj/Debug/netcoreapp3.1/Heritage2.dll
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/obj/Debug/netcoreapp3.1/Heritage2.pdb
+/Volumes/NO NAME/ex_git/Heritage2/Heritage2/obj/Debug/netcoreapp3.1/Heritage2.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v6iyE2VqdxaNfwLm8p0jAjNd0E/eI+u7b6e0GxJQLn/JZCs6xZP+Y4ZLwZVMMLCu64YX4s08UjCcUQNew5eYjg==",
+  "success": true,
+  "projectFilePath": "/Volumes/NO NAME/ex_git/Heritage2/Heritage2/Heritage2.csproj",
+  "expectedPackageFiles": [
+    "/Users/gregorymartin/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/gregorymartin/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/gregorymartin/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
