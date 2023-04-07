@@ -1,0 +1,56 @@
+﻿<Window x:Class="CourseLevrier.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseLevrier"
+        mc:Ignorable="d"
+         Title="MainWindow" Height="700" Width="850" FontSize="21">
+    <Grid x:Name="plateau">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="271*"/>
+            <RowDefinition Height="413*"/>
+        </Grid.RowDefinitions>
+        <Canvas x:Name="piste">
+            <Image Source="asset\racetrack.png"/>
+        </Canvas>
+        <GroupBox Grid.Row="1" Header="RESULTATS" Margin="10" BorderBrush="Gray">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <StackPanel>
+                    <TextBlock FontWeight="Bold">Pari minimm : 5 écus</TextBlock>
+                    <RadioButton x:Name="radbtnJoueur" Content="Joe possède 50 écus"></RadioButton>
+                    <RadioButton x:Name="radbtnJoueur2" Content="Bob possède 75 écus"></RadioButton>
+                    <RadioButton x:Name="radbtnJoueur3" Content="Bill possède 45 écus"></RadioButton>
+                </StackPanel>
+                <StackPanel Grid.Column="2">
+                    <TextBlock FontWeight="Bold">Paris</TextBlock>
+                    <TextBlock>Joe n'a pas encore parié</TextBlock>
+                    <TextBlock>Bob n'a pas encore parié</TextBlock>
+                    <TextBlock>Bill n'a pas encore parié</TextBlock>
+
+                </StackPanel>
+                <StackPanel Grid.Row="2" Grid.ColumnSpan="2">
+                    <DockPanel Margin="10">
+                        <TextBlock x:Name="TxtblcName">Bill</TextBlock>
+                        <Button Margin="10 0" Height="30">Parie</Button>
+                        <TextBox Width="20" Margin="5 0">5</TextBox>
+                        <TextBlock> écus sur le chien numéro</TextBlock>
+                        <TextBox Width="20" Margin="5 0"></TextBox>
+                        <Button x:Name="BtnStart" >LANCER LA COURSE !</Button>
+                    </DockPanel>
+                    <Button Margin="10">RESET</Button>
+                </StackPanel>
+
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

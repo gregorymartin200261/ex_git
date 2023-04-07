@@ -1,0 +1,16 @@
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\bin\Debug\CourseLevrier.exe.config
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\bin\Debug\CourseLevrier.exe
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\bin\Debug\CourseLevrier.pdb
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\obj\Debug\CourseLevrier.csproj.AssemblyReference.cache
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\obj\Debug\CourseLevrier.csproj.SuggestedBindingRedirects.cache
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\obj\Debug\MainWindow.g.cs
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\obj\Debug\App.g.cs
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\obj\Debug\CourseLevrier_MarkupCompile.cache
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\obj\Debug\CourseLevrier_MarkupCompile.lref
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\obj\Debug\MainWindow.baml
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\obj\Debug\CourseLevrier.g.resources
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\obj\Debug\CourseLevrier.Properties.Resources.resources
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\obj\Debug\CourseLevrier.csproj.GenerateResource.cache
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\obj\Debug\CourseLevrier.csproj.CoreCompileInputs.cache
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\obj\Debug\CourseLevrier.exe
+C:\Users\Greg\OneDrive\Documents\visual\CourseLevrier\CourseLevrier\obj\Debug\CourseLevrier.pdb
