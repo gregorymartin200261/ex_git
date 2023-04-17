@@ -47,7 +47,7 @@ namespace SqlEx
 
         static string DefinirCheminBD()
         {
-            return "server=localhost;database=bdd;port=3306;User Id=root;password=root";
+            return "Server=localhost;Database=bdd;port=3306;User Id=root;password=";
         }
 
         static bool AllUser(out DataSet data)
